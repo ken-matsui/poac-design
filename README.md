@@ -1,4 +1,4 @@
 # Designs
-<img src="https://github.com/poacpm/designs/raw/master/images/icon.png" alt="icon" width=200px>
+<img src="https://github.com/poacpm/designs/raw/master/images/logo.png" alt="icon" width=300px>
 
 Design datas.
