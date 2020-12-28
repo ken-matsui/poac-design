@@ -6,7 +6,7 @@
         }
         @media (prefers-color-scheme: dark) {
             #poac {
-                fill: white;
+                fill: whitesmoke;
             }
         }
     </style>
